@@ -1,0 +1,13 @@
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/untitled.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/untitled_lupdate.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/update_translations.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/untitled_lrelease.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/release_translations.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/edit_cache.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/rebuild_cache.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/list_install_components.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install/local.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/install/strip.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/untitled_autogen_timestamp_deps.dir
+D:/Proj_cpp/untitled/build/Desktop_Qt_6_9_2_MinGW_64_bit-MinSizeRel/CMakeFiles/untitled_autogen.dir

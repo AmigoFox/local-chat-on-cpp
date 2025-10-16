@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Installer>
+    <Name>Untitled Installer</Name>
+    <Version>1.0.0</Version>
+    <Title>Untitled Application Installer</Title>
+    <Publisher>Your Name</Publisher>
+    <TargetDir>@HomeDir@/MyApp</TargetDir>
+    <InstallerApplicationIcon>installer/images/installer_icon.ico</InstallerApplicationIcon>
+    <InstallerWindowIcon>installer/images/window_icon.ico</InstallerWindowIcon>
+</Installer>
